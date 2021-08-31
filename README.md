@@ -1,2 +1,2 @@
 # FullStackOpen
-Full stack Open (2021) -kurssin tehtävät.
+Full Stack open (2021) -kurssin tehtävät.
